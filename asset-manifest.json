@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c99b3925.css",
+    "main.js": "/static/js/main.1944656d.js",
+    "static/js/453.7c39b127.chunk.js": "/static/js/453.7c39b127.chunk.js",
+    "static/media/비주얼3.jpg": "/static/media/비주얼3.6cf7c84e50b730d145b2.jpg",
+    "static/media/비주얼0.jpg": "/static/media/비주얼0.e0e7a5e5d309b0bbd743.jpg",
+    "static/media/비주얼1.jpg": "/static/media/비주얼1.dc27b3ebcdfe23e8e733.jpg",
+    "static/media/비주얼2.jpg": "/static/media/비주얼2.7539adcd5aecb0814717.jpg",
+    "static/media/비주얼4.jpg": "/static/media/비주얼4.741fcff690ed6ee5dbef.jpg",
+    "index.html": "/index.html",
+    "main.c99b3925.css.map": "/static/css/main.c99b3925.css.map",
+    "main.1944656d.js.map": "/static/js/main.1944656d.js.map",
+    "453.7c39b127.chunk.js.map": "/static/js/453.7c39b127.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99b3925.css",
+    "static/js/main.1944656d.js"
+  ]
+}
